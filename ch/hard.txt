@@ -6,7 +6,7 @@ H005|Take a full-day trip to a town or city you've never visited.
 H006|Spend an entire day without social media.
 H007|Spend an entire waking day without listening to music, podcasts, or videos.
 H008|Read an entire nonfiction book in one week.
-H009|Finish a beginner online course.
+H009|Finish a beginner online course (e.g., Khan Academy).
 H010|Cook three completely new recipes this week.
 H011|Wake up at sunrise every day for one week.
 H012|Volunteer for at least four hours.
