@@ -1,1 +1,104 @@
-M001|
+M001|Visit a museum or art gallery you've never been to.
+M002|Start a conversation with a stranger that lasts at least five minutes.
+M003|Read 50 pages of a nonfiction book.
+M004|Cook a meal entirely from scratch (no recipe).
+M005|Attend a local event you've never considered before.
+M006|Spend two hours learning a completely new skill.
+M007|Write a one-page reflection on your current goals.
+M008|Take a two-hour walk somewhere unfamiliar.
+M009|Watch a full documentary and write down three things you learned.
+M010|Spend one hour learning a language.
+M011|Donate clothes or items you no longer use.
+M012|Visit a local library and borrow a book.
+M013|Wake up one hour earlier than usual.
+M014|Have lunch without looking at your phone.
+M015|Research one career you've never considered.
+M016|Read an entire short book.
+M017|Go somewhere you've never been within 20 miles of home.
+M018|Organize every file on your desktop.
+M019|Write a letter to someone who has influenced your life.
+M020|Spend one hour drawing, even if you're not good at it.
+M021|Take a long bike ride.
+M022|Learn to solve a new type of puzzle.
+M023|Complete a beginner workout you've never tried.
+M024|Spend one hour volunteering.
+M025|Call or text someone you've lost touch with.
+M026|Read about a major historical event for an hour.
+M027|Learn basic phrases in a language you've never studied.
+M028|Spend an hour cleaning your room thoroughly.
+M029|Watch an entire university lecture.
+M030|Write a review of your favorite book or movie.
+M031|Visit a coffee shop you've never been to.
+M032|Leave your phone at home during a walk.
+M033|Spend an hour learning basic investing concepts.
+M034|Read about one philosophical school of thought.
+M035|Complete a 5-mile walk.
+M036|Spend two uninterrupted hours making progress on a personal project you've been postponing.
+M037|Try a cuisine you've never eaten before.
+M038|Write a one-page story.
+M039|Learn to juggle or another simple physical skill.
+M040|Spend one hour without any digital devices.
+M041|Research your family history.
+M042|Take public transportation somewhere unfamiliar.
+M043|Read one scientific paper summary.
+M044|Visit a local monument or landmark.
+M045|Watch a foreign film or a film in a different language.
+M046|Spend an hour improving your resume or portfolio.
+M047|Read about a major scientific breakthrough.
+M048|Cook a meal for someone else.
+M049|Take a nature walk and identify five plants.
+M050|Spend an hour practicing photography.
+M051|Write down 100 things you're grateful for.
+M052|Learn the basics of chess strategy.
+M053|Read 25 poems.
+M054|Visit a bookstore and browse every section.
+M055|Review the periodic table of elements.
+M056|Spend an hour learning about astronomy.
+M057|Clean and organize your entire backpack.
+M058|Research one famous court case.
+M059|Attend a free public lecture if available.
+M060|Watch an entire educational course module.
+M061|Write a page about your biggest fear.
+M062|Take a hike you've never done before.
+M063|Delete or organize 1 GB of digital clutter.
+M064|Read about one religion you know little about.
+M065|Learn to cook a new dessert.
+M066|Spend an hour learning basic coding.
+M067|Visit a local business you've never entered.
+M068|Have a meaningful conversation with an older adult.
+M069|Read one Shakespeare play or a substantial portion of one.
+M070|Spend an hour practicing a musical instrument.
+M071|Learn the rules of a sport you've never watched.
+M072|Research one country in depth.
+M073|Write a detailed journal entry about this stage of your life.
+M074|Complete a beginner yoga session.
+M075|Watch an entire historical documentary.
+M076|Spend one hour memorizing useful information.
+M077|Learn how to identify ten bird species.
+M078|Walk through a neighborhood you've never explored.
+M079|Read about one Nobel Prize winner.
+M080|Spend an hour sketching objects around you.
+M081|Take a full inventory of your wardrobe.
+M082|Learn one practical first aid skill.
+M083|Read about one branch of mathematics you've never studied.
+M084|Watch a debate on an unfamiliar topic.
+M085|Spend an hour writing by hand.
+M086|Research one famous expedition.
+M087|Try a new form of exercise.
+M088|Read an entire issue of a magazine.
+M089|Learn how one major technology works.
+M090|Spend an hour planning a future trip.
+M091|Visit a local park you've never explored.
+M092|Read about one famous legal case.
+M093|Watch an opera or symphony performance.
+M094|Organize your digital photos into albums.
+M095|Spend an hour practicing meditation.
+M096|Research one medical condition to better understand it.
+M097|Write a list of 100 life goals.
+M098|Learn how to use one unfamiliar software feature.
+M099|Visit a local historical site.
+M100|Reflect on the last month and write two pages about what you've learned.
+M101|Spend two hours at a local library researching a topic you've always been curious about.
+M102|Attend a community event, club meeting, or class you've never been to before.
+M103|Reach out to someone you admire and ask them one thoughtful question.
+M104|Complete a 10,000-step day entirely through intentional walking.
