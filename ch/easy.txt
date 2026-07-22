@@ -1,1 +1,201 @@
-E001|
+E001|Say hello to someone you don't normally greet.
+E002|Read 10 pages of any book.
+E003|Take a 20-minute walk without headphones.
+E004|Drink a full glass of water before breakfast.
+E005|Compliment someone sincerely.
+E006|Delete 25 unnecessary photos.
+E007|Learn the meaning of one unfamiliar English word.
+E008|Watch the sunset or sunrise.
+E009|Write down three things you're grateful for.
+E010|Try a food you've never eaten before.
+E011|Organize one drawer or shelf.
+E012|Spend 15 minutes stretching.
+E013|Listen to one piece of classical music, without doing anything else.
+E014|Call a family member or friend just to check in.
+E015|Write a one-paragraph journal entry.
+E016|Go outside for at least 30 minutes.
+E017|Watch one educational video (ex: TED)
+E018|Spend 20 minutes reading an article about a topic you know little about.
+E019|Learn five words in another language.
+E020|Eat one serving of fruit today.
+E021|Take a different route during a walk.
+E022|Smile at five people today.
+E023|Write down one goal for this month.
+E024|Back up one important file.
+E025|Delete or offload five unused apps or browser extensions.
+E026|Do 20 push-ups (or an equivalent exercise).
+E027|Listen to an entire album you've never heard.
+E028|Clean your desk.
+E029|Read the Wikipedia article of the day.
+E030|Spend 30 minutes without your phone.
+E031|Read one Wikipedia article on a random topic.
+E032|Watch a TED Talk.
+E033|Open your windows for 15 minutes.
+E034|Write a thank-you message to someone.
+E035|Learn one useful keyboard shortcut.
+E036|Spend 15 minutes tidying your room.
+E037|Read one poem.
+E038|Try writing with your non-dominant hand for one minute.
+E039|Stand outside and notice five sounds.
+E040|Do one act of kindness without telling anyone.
+E041|Browse a section of the library or bookstore you normally ignore.
+E042|Spend 20 minutes learning a new skill.
+E043|Write down one interesting idea you've had recently.
+E044|Try a new tea, coffee, or drink.
+E045|Spend 15 minutes organizing digital files.
+E046|Read one long-form article instead of social media.
+E047|Walk at least 7,500 steps today.
+E048|Clean your computer and phone screen.
+E049|Listen to a podcast episode about science, history, or philosophy.
+E050|Do five minutes of deep breathing.
+E051|Watch a documentary trailer and save one to watch later.
+E052|Write a short review of a book, movie, or game you've finished.
+E053|Learn the capital of a country you know little about.
+E054|Spend 15 minutes practicing a hobby.
+E055|Watch the clouds for 10 minutes.
+E056|Delete 50 old emails.
+E057|Read one chapter of a nonfiction book.
+E058|Learn one interesting historical fact.
+E059|Write down your top three priorities for tomorrow.
+E060|Sit somewhere new while reading or working.
+E061|Do one household chore you have been postponing.
+E062|Spend 15 minutes without any screens (including watches).
+E063|Listen to music from a country you've never explored.
+E064|Watch a short lecture online.
+E065|Write one page by hand.
+E066|Take a photo of something you find beautiful today.
+E067|Spend 20 minutes cleaning your backpack or bag.
+E068|Read the biography of someone you admire.
+E069|Try a new healthy snack.
+E070|Memorize one meaningful quote.
+E071|Stand up and stretch once every hour for half a day.
+E072|Learn the origin of one common English word.
+E073|Write down five questions you're curious about.
+E074|Do a random act of generosity.
+E075|Spend 15 minutes observing nature.
+E076|Replace 15 minutes of scrolling with reading.
+E077|Visit a local park.
+E078|Watch a video explaining a scientific concept.
+E079|Write a list of ten things that make you smile.
+E080|Learn one new feature of an app you use often.
+E081|Clean your keyboard.
+E082|Spend 20 minutes working on a personal project.
+E083|Read one famous speech.
+E084|Try solving a logic puzzle.
+E085|Practice balancing on one foot for one minute.
+E086|Learn one constellation visible this season.
+E087|Watch a foreign-language video with subtitles.
+E088|Organize your desktop icons or files.
+E089|Write one letter to your future self.
+E090|Find and save one interesting recipe.
+E091|Spend 15 minutes doing absolutely nothing.
+E092|Look through old photos for 10 minutes.
+E093|Read about one invention and how it changed the world.
+E094|Learn one new math trick or shortcut.
+E095|Take a short walk after dinner.
+E096|Write down one lesson you learned this week.
+E097|Go to bed by 8:45 PM at least once.
+E098|Watch one video from your meaningful videos list.
+E099|Research one place you'd like to visit someday.
+E100|Reflect on the best part of your week and write one sentence about it.
+E101|Introduce yourself to someone you haven't met before.
+E102|Ask someone how their day is going and listen attentively.
+E103|Write down five interesting observations from today.
+E104|Spend 15 minutes learning about a country you've never researched.
+E105|Try writing with a fountain pen or pencil instead of a keyboard.
+E106|Take a 30-minute walk in a neighborhood you rarely visit.
+E107|Watch a NASA or space-related video.
+E108|Read one famous philosophical quote and think about its meaning.
+E109|Learn how one everyday object is manufactured.
+E110|Read one article from a news source outside your usual preferences.
+E111|Buy or borrow a new book to read.
+E112|Write down three questions you don't know the answer to.
+E113|Watch a video explaining a historical event.
+E114|Try to solve a Rubik's cube.
+E115|Find one new artist and listen to three of their songs.
+E116|Write down one thing you've improved at this year.
+E117|Learn how to say "thank you" in five languages.
+E118|Spend 20 minutes cleaning your downloads folder.
+E119|Read one article about astronomy.
+E120|Observe the moon for five minutes tonight.
+E121|Try solving a crossword or Sudoku puzzle.
+E122|Spend 10 minutes practicing your handwriting.
+E123|Read the first chapter of a classic novel.
+E124|Watch an interview with someone you admire.
+E125|Do one extra household chore without being asked.
+E126|Research one endangered animal.
+E127|Learn one new fact about your hometown or region.
+E128|Read one page from a dictionary at random.
+E129|Watch a video about how something works.
+E130|Learn one new feature in your phone's settings.
+E131|Write down your favorite memory from childhood.
+E132|Spend 5 minutes decluttering your wallet.
+E133|Take a picture of something interesting you normally ignore.
+E134|Read about one famous scientific discovery.
+E135|Spend 10 minutes watching birds or other wildlife.
+E136|Learn one useful knot.
+E137|Learn a new tie knot.
+E138|Read one comic strip you've never seen before.
+E139|Learn about one famous painting.
+E140|Find one interesting fact about the ocean.
+E141|Take the stairs instead of the elevator whenever possible today.
+E142|Write down five books you want to read someday.
+E143|Listen to ambient nature sounds for 15 minutes.
+E144|Read about one famous architect or building.
+E145|Learn the names of three trees in your area.
+E146|Watch one short video on economics or finance.
+E147|Write a list of ten things you own that you're thankful for.
+E148|Find one public domain book and read a chapter.
+E149|Try a new breakfast or snack.
+E150|Read about one famous inventor.
+E151|Spend 15 minutes cleaning your browser bookmarks.
+E152|Watch one lecture from a university channel.
+E153|Read one article about psychology.
+E154|Learn one interesting legal fact.
+E155|Find one local place you've never visited before.
+E156|Write a haiku.
+E157|Spend 20 minutes improving your posture while sitting.
+E158|Research one famous shipwreck.
+E159|Learn one interesting fact about the human brain.
+E160|Watch a video on photography basics.
+E161|Read one biography summary.
+E162|Learn one keyboard shortcut you didn't know yesterday.
+E163|Write a list of ten goals for the next ten years.
+E164|Read one page from a physical encyclopedia (find one!).
+E165|Learn how one musical instrument produces sound.
+E166|Take a short walk after lunch.
+E167|Spend 15 minutes cleaning your bedside area.
+E168|Read one article about medicine or biology.
+E169|Watch a weather forecast and understand tomorrow's conditions.
+E170|Learn what one cloud type looks like.
+E171|Write one paragraph describing today's weather.
+E172|Listen to a genre of music you normally avoid.
+E173|Research one ancient civilization.
+E174|Spend 15 minutes practicing mindfulness.
+E175|Read one article about artificial intelligence.
+E176|Run a mile outside.
+E177|Organize your phone's home screen.
+E178|Watch one educational animation.
+E179|Read about one national park.
+E180|Find one constellation visible this month.
+E181|Learn one interesting fact about volcanoes.
+E182|Spend 15 minutes cleaning your email inbox.
+E183|Read one article about engineering.
+E184|Watch one video explaining an illusion.
+E185|Research one famous explorer.
+E186|Write down one thing you would like to learn this year.
+E187|Learn one interesting fact about ancient Rome or Greece.
+E188|Take a photo from a perspective you've never tried before.
+E189|Read about one endangered language.
+E190|Watch one video about geology.
+E191|Spend 15 minutes trying to understand a difficult topic (like general relativity).
+E192|Read one short story.
+E193|Research one famous mathematician.
+E194|Learn one interesting fact about your favorite animal.
+E195|Spend five minutes looking at the night sky.
+E196|Write down three ideas for future hobbies.
+E197|Read one article about nutrition.
+E198|Watch a video about a culture different from your own.
+E199|Learn one interesting fact about electricity.
+E200|Reflect on one thing you accomplished this week and write it down.
+E201|Ask one question every day this week.

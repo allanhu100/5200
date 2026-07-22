@@ -1,0 +1,50 @@
+F001|Honey never spoils. Edible honey has been found in ancient Egyptian tombs.
+F002|Octopuses have three hearts and blue blood.
+F003|Sharks existed before trees evolved.
+F004|A day on Venus is longer than its year.
+F005|There are more possible chess games than atoms in the observable universe.
+F006|The fingerprints of koalas are remarkably similar to those of humans.
+F007|Bananas are naturally radioactive due to potassium-40, though at harmless levels.
+F008|Saturn could float in a sufficiently large body of water because it is less dense than water.
+F009|A single teaspoon of neutron star material would weigh billions of tons on Earth.
+F010|Water can boil and freeze at the same time under specific conditions (the triple point).
+F011|The Eiffel Tower grows taller during summer because heat causes the metal to expand.
+F012|Your stomach lining replaces itself every few days.
+F013|Lightning is about five times hotter than the surface of the Sun.
+F014|Some turtles can breathe through specialized tissues near their tails.
+F015|The smell of freshly cut grass is a chemical distress signal released by plants.
+F016|Scotland's national animal is the unicorn.
+F017|Crows can recognize individual human faces for years.
+F018|A group of flamingos is called a flamboyance.
+F019|The human brain contains roughly 86 billion neurons.
+F020|Wombats produce cube-shaped droppings.
+F021|The shortest war in history lasted less than an hour.
+F022|Some bamboo species can grow nearly a meter in a single day.
+F023|Jellyfish have existed for over 500 million years.
+F024|The oceans contain over 95% of Earth's living space by volume.
+F025|An astronaut's height can increase slightly in space because the spine decompresses.
+F026|There are more trees on Earth than stars in the Milky Way.
+F027|A bolt of lightning can stretch for hundreds of miles.
+F028|The world's oldest known living tree is over 4,800 years old.
+F029|Sloths can hold their breath longer than dolphins.
+F030|Glass is not technically a liquid; it is an amorphous solid.
+F031|The International Space Station travels around Earth roughly every 90 minutes.
+F032|Humans share about 60% of their DNA with bananas.
+F033|Mount Everest grows by a few millimeters each year.
+F034|An adult human has fewer bones than a baby because many fuse during growth.
+F035|The Moon is slowly moving away from Earth by about 3.8 cm each year.
+F036|The largest living organism is a fungal network in Oregon.
+F037|Polar bears have black skin beneath their white fur.
+F038|The heart of a blue whale is about the size of a small car.
+F039|There are lakes beneath Antarctica's ice sheet.
+F040|The first computer bug was an actual moth found inside a computer.
+F041|Sea otters hold hands while sleeping to avoid drifting apart.
+F042|A cloud can weigh hundreds of tons.
+F043|Your body contains enough carbon to make thousands of pencil leads.
+F044|The deepest part of the ocean is deeper than Mount Everest is tall.
+F045|Some frogs freeze solid during winter and thaw back to life in spring.
+F046|The Great Barrier Reef is visible from space.
+F047|The smell after rain has a name: petrichor.
+F048|Most of the atoms in your body were forged inside ancient stars.
+F049|There are more possible ways to shuffle a deck of cards than seconds since the Big Bang.
+F050|Every breath you take likely contains atoms once breathed by historical figures and ancient life.

@@ -1,0 +1,51 @@
+H001|Attend a social event alone and stay for at least one hour.
+H002|Give a five-minute presentation to a group, class, or club.
+H003|Complete a 10-mile (16 km) hike or walk.
+H004|Go camping for one night.
+H005|Take a full-day trip to a town or city you've never visited.
+H006|Spend an entire day without social media.
+H007|Spend an entire waking day without listening to music, podcasts, or videos.
+H008|Read an entire nonfiction book in one week.
+H009|Finish a beginner online course (e.g., Khan Academy).
+H010|Cook three completely new recipes this week.
+H011|Wake up at sunrise every day for one week.
+H012|Volunteer for at least four hours.
+H013|Organize and deep-clean your entire room.
+H014|Write a 2,000-word essay on a topic that interests you.
+H015|Attend a live performance you've never experienced before.
+H016|Visit three local landmarks in one day.
+H017|Spend four hours learning a new practical skill.
+H018|Complete a 15-mile (24 km) bike ride.
+H019|Have a one-hour conversation with someone at least 25 years older or younger than you.
+H020|Delete or organize 10 GB of digital clutter.
+H021|Spend one full day speaking only when necessary.
+H022|Watch a university lecture series totaling at least four hours.
+H023|Read an entire classic novel.
+H024|Learn and prepare a meal from another culture.
+H025|Take a train or bus somewhere solely to explore.
+H026|Write a detailed five-year life plan.
+H027|Complete a full-day digital declutter of all your devices.
+H028|Learn the basics of a new programming language.
+H029|Visit a place of worship different from your own background and respectfully observe a service.
+H030|Memorize and recite a two-minute speech or poem.
+H031|Go 24 hours without buying anything.
+H032|Spend six hours creating something with your hands.
+H033|Read three long-form investigative articles in one sitting.
+H034|Attend a public lecture and take detailed notes.
+H035|Walk every street in a neighborhood you've never explored.
+H036|Write and mail three handwritten letters.
+H037|Complete a full practice session for a skill you've wanted to improve.
+H038|Spend an afternoon helping a friend or family member with a project.
+H039|Watch three documentaries on the same topic and compare them.
+H040|Research your family tree as far back as you can in one week.
+H041|Take a full-day photography challenge and keep only your ten best photos.
+H042|Plan and cook a complete dinner for other people.
+H043|Finish a 20,000-step day.
+H044|Spend an entire afternoon reading primary historical sources.
+H045|Learn enough about one topic to explain it clearly to someone else.
+H046|Visit three independent local businesses you've never entered before.
+H047|Complete a full-day personal retreat without entertainment media.
+H048|Write a personal manifesto describing your values and principles.
+H049|Create something you're proud enough to publicly share.
+H050|Reflect on the past year and write a 3,000-word review of what you've learned.
+H051|Write at least 1,000 words synthesizing two topics together to answer the question "what is humanity?"
